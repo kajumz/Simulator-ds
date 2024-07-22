@@ -1,0 +1,4 @@
+artifact_location: file:///D:/pythonProject2/anti-fraud%20mlfow/mlruns/2
+experiment_id: '2'
+lifecycle_stage: active
+name: antifraud-default
