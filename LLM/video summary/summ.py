@@ -22,7 +22,7 @@ def summarize_text(input_text: str) -> str:
     #>>> print(summary)
     'This video explains...'
     """
-    openai.api_key = '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'
+    openai.api_key = ''
 
 
     # Send request to OpenAI
